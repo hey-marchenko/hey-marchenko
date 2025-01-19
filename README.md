@@ -1,4 +1,15 @@
-## Hi there 👋
+<h1>Welcome to Aleksandra's World! 
+
+<h2>👨‍💻 Fun Projects:</h2>
+
+- <b>Rock, Paper, Scissors Python Game (Looped for Best of 5 games)</b>
+  - [Rock, Paper, Scissors](https://github.com/hey-marchenko/hey-marchenko/url)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="AleksandraMarchenko | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/aleksandra-mt/
 
 <!--
 **hey-marchenko/hey-marchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
