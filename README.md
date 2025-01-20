@@ -1,9 +1,13 @@
-<h1>Welcome to Aleksandra's World! 
+<h1>Welcome to Aleksandra's World!
 
 <h2>👨‍💻 Fun Projects:</h2>
 
 - <b>Rock, Paper, Scissors Python Game (Looped for Best of 5 games)</b>
   - [Rock, Paper, Scissors](https://github.com/hey-marchenko/hey-marchenko/url)
+
+<h2>📝 Certifications:</h2>
+
+  - [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/1f9ec0c2-5a05-4470-8af7-1881911ae372#acc.u7QsgUcS)
 
 <h2> 🤳 Connect with me:</h2>
 
