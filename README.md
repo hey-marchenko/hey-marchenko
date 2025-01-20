@@ -3,7 +3,7 @@
 <h2>👨‍💻 Fun Projects:</h2>
 
 - <b>Rock, Paper, Scissors Python Game (Looped for Best of 5 games)</b>
-  - [Rock, Paper, Scissors](https://github.com/hey-marchenko/hey-marchenko/url)
+  - [Rock, Paper, Scissors](https://github.com/hey-marchenko/rock-paper-scissors)
 
 <h2>📝 Certifications:</h2>
 
